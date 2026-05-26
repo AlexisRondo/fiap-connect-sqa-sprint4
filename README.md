@@ -28,6 +28,9 @@ API REST .NET do FIAP Connect hospedada em AWS EC2.
 **Link do Azure DevOps:**
 https://dev.azure.com/RM560384/FIAP-Connect
 
+**Shared Query contendo os 12 Test Cases:**
+https://dev.azure.com/RM560384/FIAP-Connect/_queries/query/cedfe4df-e89c-4655-9600-c0cadca22db2/
+
 ### Cobertura dos Test Cases
 
 | Categoria                         | Quantidade |
@@ -89,7 +92,7 @@ A collection utiliza variaveis de environment preenchidas dinamicamente entre os
 
 Video nao listado no YouTube mostrando configuracao e execucao da automacao:
 
-[https://youtu.be/MRoEkkRDtBk]
+[Vídeo de demonstração](https://youtu.be/MRoEkkRDtBk)
 
 ---
 
