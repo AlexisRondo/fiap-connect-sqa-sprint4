@@ -92,7 +92,10 @@ A collection utiliza variaveis de environment preenchidas dinamicamente entre os
 
 Video nao listado no YouTube mostrando configuracao e execucao da automacao:
 
-[Vídeo de demonstração](https://youtu.be/MRoEkkRDtBk)
+[Vídeo de demonstração Postman](https://youtu.be/MRoEkkRDtBk)
+
+- **Vídeo de demonstração:** [YouTube](https://youtu.be/3-qGD7G8NU4)    
+     (Usando Swagger e com integração real com MongoDB)
 
 ---
 
