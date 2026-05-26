@@ -94,7 +94,7 @@ Video nao listado no YouTube mostrando configuracao e execucao da automacao:
 
 [Vídeo de demonstração Postman](https://youtu.be/MRoEkkRDtBk)
 
-- **Vídeo de demonstração:** [Usando Swagger e com integração real com MongoDB](https://youtu.be/3-qGD7G8NU4)    
+[Usando Swagger e com integração real com MongoDB](https://youtu.be/3-qGD7G8NU4)    
      
 ---
 
